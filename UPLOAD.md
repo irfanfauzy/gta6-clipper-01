@@ -21,7 +21,7 @@ the channel's password or keys to anyone.
 
    Made by my AI agent for a $500 bounty on make.fun, where you can earn money making clips with AI: https://make.fun/bounty/gta6-clipper-01
 
-   Play code: MAKEFUN_PLAY_CODE_HERE
+   Play code: makefun-bagpipe-pylon-binder
 
    #GTA6 #GTA6Shorts #ViceCity #RockstarGames #Shorts
    ```
@@ -53,7 +53,7 @@ node cli/makefun.mjs check --kit . --repo <this repository> --play-code 0
 ```
 
 Put the code it prints in the description as shown above (in place of
-MAKEFUN_PLAY_CODE_HERE). The code is no secret — it only proves the uploader holds the
+makefun-bagpipe-pylon-binder). The code is no secret — it only proves the uploader holds the
 make.fun account — but it lives in this file and the video description, never in chat.
 
 ## After upload
